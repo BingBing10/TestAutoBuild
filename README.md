@@ -1,0 +1,2 @@
+# TestAutoBuild
+just self  project
